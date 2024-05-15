@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+  background-color: rgb(0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
+}
+section{
+width: 1200px;
+margin: 0 auto;
+}
+
+.suporte a{ 
+  text-decoration: none;
+  color: rgb(0, 255, 8);
+}
+.logotipo img{
+  height: 300px;
+  width: 300px;
+}
+.header .suporte{
+  float:right;
+}
